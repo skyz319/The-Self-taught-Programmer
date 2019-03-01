@@ -1,5 +1,6 @@
-# Python导入模块的方法有两种：import module 和 from module import，
-# 区别是前者所有导入的东西使用时需加上模块名的限定，而后者不要。
+# coding=UTF-8
+# Python导入模块的方式有两种：import moudle 和 from moudle import,
+# 区别是前者所有导入的东西使用时需要加上模块名限定，而后者不要。
 
 from chapter13.Rectangle import *
 import Square
