@@ -1,4 +1,5 @@
-# coding=UTF-8
+# coding=utf-8
+
 # Python导入模块的方式有两种：import moudle 和 from moudle import,
 # 区别是前者所有导入的东西使用时需要加上模块名限定，而后者不要。
 
