@@ -1,0 +1,36 @@
+// {
+//     // See https://go.microsoft.com/fwlink/?LinkId=733558
+//     // for the documentation about the tasks.json format
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             // "version": "0.1.0",
+//             "command": "python",
+//             "args": ["${file}"]
+//         }
+//     ]
+// }
+
+
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [{
+            "label": "python",
+            "type": "shell",
+            "command": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+            "args": [
+                "${file}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }]
+
+        -- -- -- -- -- -- -- -- -- -- -
+        作者： weixin_38095708
+    来源： CSDN
+    原文： https: //blog.csdn.net/weixin_38095708/article/details/81198071 
+        版权声明： 本文为博主原创文章， 转载请附上博文链接！

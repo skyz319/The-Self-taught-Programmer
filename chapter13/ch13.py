@@ -9,6 +9,12 @@ import Square
 from chapter13.Rider import *
 from chapter13.Horse import *
 
+
+import sys
+
+print(sys.path)
+
+
 rec = Rectangle(10, 20)
 print(rec.calculate_perimeter())
 rec.what_am_i()
@@ -35,5 +41,3 @@ rider.horses.append(horse2)
 rider.horses.append(horse3)
 
 rider.riderHorses()
-
-

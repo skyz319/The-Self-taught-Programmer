@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78f560b-3a44-4ef7-967e-969f917475c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter12/apple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/Horse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/Rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/Rider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/Shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter13/ch13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/ch8-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/ch8-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/cubed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/ch9-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/ch9-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter13/ch13.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter13/ch13.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +30,7 @@
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch5_3.coverage" NAME="ch5-3 Coverage Results" MODIFIED="1550643997390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch7_2.coverage" NAME="ch7-2 Coverage Results" MODIFIED="1551062902247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch9_1.coverage" NAME="ch9-1 Coverage Results" MODIFIED="1551078320519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
-    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Square.coverage" NAME="Square Coverage Results" MODIFIED="1551147413702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Square.coverage" NAME="Square Coverage Results" MODIFIED="1551667523892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter14" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch7_5.coverage" NAME="ch7-5 Coverage Results" MODIFIED="1551063745010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_7.coverage" NAME="ch6-7 Coverage Results" MODIFIED="1551060867330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch5_1.coverage" NAME="ch5-1 Coverage Results" MODIFIED="1550643726783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
@@ -51,7 +39,7 @@
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$files.coverage" NAME="files Coverage Results" MODIFIED="1551074707855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$apple.coverage" NAME="apple Coverage Results" MODIFIED="1551147010232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter12" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch7_3.coverage" NAME="ch7-3 Coverage Results" MODIFIED="1551062978631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
-    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch13.coverage" NAME="ch13 Coverage Results" MODIFIED="1551152305686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch13.coverage" NAME="ch13 Coverage Results" MODIFIED="1551665899241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_5.coverage" NAME="ch6-5 Coverage Results" MODIFIED="1551060661430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch8_1.coverage" NAME="ch8-1 Coverage Results" MODIFIED="1551072004224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter8" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_2.coverage" NAME="ch6-2 Coverage Results" MODIFIED="1551059798101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
@@ -60,33 +48,12 @@
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Rider.coverage" NAME="Rider Coverage Results" MODIFIED="1551152181958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter13/Horse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter13/Rider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter13/ch13.py">
+        <entry file="file://$PROJECT_DIR$/chapter14/Square.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-              <folding>
-                <element signature="e#90#123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="572">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -149,13 +116,15 @@
         <option value="$PROJECT_DIR$/chapter13/Graphics.py" />
         <option value="$PROJECT_DIR$/chapter13/Rider.py" />
         <option value="$PROJECT_DIR$/chapter13/ch13.py" />
+        <option value="$PROJECT_DIR$/chapter14/Square2.py" />
+        <option value="$PROJECT_DIR$/chapter14/Square.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="34" />
-    <option name="y" value="22" />
-    <option name="width" value="1415" />
+    <option name="x" value="33" />
+    <option name="y" value="26" />
+    <option name="width" value="1408" />
     <option name="height" value="1414" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -181,27 +150,7 @@
             <path>
               <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
               <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch13">
+  <component name="RunManager" selected="Python.Square">
     <configuration name="Graphics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,6 +245,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="The-Self-taught-Programmer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter14/Square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ch13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,35 +289,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="The-Self-taught-Programmer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Square" />
         <item itemvalue="Python.ch13" />
         <item itemvalue="Python.Rider" />
         <item itemvalue="Python.Graphics" />
         <item itemvalue="Python.Rectangle" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -361,6 +310,11 @@
       <option name="presentableId" value="Default" />
       <updated>1550640859796</updated>
       <workItem from="1550640861177" duration="18053000" />
+      <workItem from="1551418963805" duration="25000" />
+      <workItem from="1551664407682" duration="40000" />
+      <workItem from="1551664491877" duration="103000" />
+      <workItem from="1551664621412" duration="553000" />
+      <workItem from="1551665742346" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="chapter5">
       <created>1550644884467</created>
@@ -373,33 +327,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18053000" />
+    <option name="totallyTimeSpent" value="20133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="22" width="1415" height="1414" extended-state="0" />
+    <frame x="33" y="26" width="1408" height="1414" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2693997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32980332" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32980332" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32980332" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980332" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39939487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32980332" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,6 +383,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -580,27 +548,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/posix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="675" column="4" selection-start-line="675" selection-start-column="4" selection-end-line="675" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter9/st2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/posix.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943126/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/chapter9/st2.csv" />
     <entry file="file://$PROJECT_DIR$/chapter9/st.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -614,19 +564,11 @@
     <entry file="file://$PROJECT_DIR$/chapter9/9_3.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13/ch13-1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter13/ch13-1.py" />
     <entry file="file://$PROJECT_DIR$/chapter4/ch4-5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/chapter13/Rectangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -704,13 +646,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13/Graphics.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13/Rider.py">
+    <entry file="file://$PROJECT_DIR$/chapter13/Graphics.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="312">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -721,13 +661,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter13/Rider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter13/ch13.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding>
-            <element signature="e#90#123#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/Square2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/Square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
         </state>
       </provider>
     </entry>
