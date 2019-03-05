@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78f560b-3a44-4ef7-967e-969f917475c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter15/Card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/Deck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter15/Player.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter13/ch13.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter13/ch13.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +35,12 @@
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch9_1.coverage" NAME="ch9-1 Coverage Results" MODIFIED="1551078320519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Square.coverage" NAME="Square Coverage Results" MODIFIED="1551667523892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter14" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch7_5.coverage" NAME="ch7-5 Coverage Results" MODIFIED="1551063745010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
+    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Card.coverage" NAME="Card Coverage Results" MODIFIED="1551685962076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter15" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_7.coverage" NAME="ch6-7 Coverage Results" MODIFIED="1551060867330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch5_1.coverage" NAME="ch5-1 Coverage Results" MODIFIED="1550643726783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch5_4.coverage" NAME="ch5-4 Coverage Results" MODIFIED="1550644297696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_10.coverage" NAME="ch6-10 Coverage Results" MODIFIED="1551061156410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
+    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Game.coverage" NAME="Game Coverage Results" MODIFIED="1551756589921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter15" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$files.coverage" NAME="files Coverage Results" MODIFIED="1551074707855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$apple.coverage" NAME="apple Coverage Results" MODIFIED="1551147010232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter12" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch7_3.coverage" NAME="ch7-3 Coverage Results" MODIFIED="1551062978631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
@@ -46,14 +51,57 @@
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$test.coverage" NAME="test Coverage Results" MODIFIED="1551148637465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Rectangle.coverage" NAME="Rectangle Coverage Results" MODIFIED="1551150844370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Rider.coverage" NAME="Rider Coverage Results" MODIFIED="1551152181958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Deck.coverage" NAME="Deck Coverage Results" MODIFIED="1551755555412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter15" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter14/Square.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="364">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter15/Card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter15/Deck.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="e#5#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter15/Player.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter15/Game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,13 +166,17 @@
         <option value="$PROJECT_DIR$/chapter13/ch13.py" />
         <option value="$PROJECT_DIR$/chapter14/Square2.py" />
         <option value="$PROJECT_DIR$/chapter14/Square.py" />
+        <option value="$PROJECT_DIR$/chapter15/Card.py" />
+        <option value="$PROJECT_DIR$/chapter15/Player.py" />
+        <option value="$PROJECT_DIR$/chapter15/Deck.py" />
+        <option value="$PROJECT_DIR$/chapter15/Game.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="33" />
     <option name="y" value="26" />
-    <option name="width" value="1408" />
+    <option name="width" value="1407" />
     <option name="height" value="1414" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -145,12 +197,7 @@
             <path>
               <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
               <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter15" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,8 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Square">
-    <configuration name="Graphics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Game">
+    <configuration name="Card" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +234,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter13/Graphics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/Card.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Deck" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +256,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter13/Rectangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/Deck.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter13/Rider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +338,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Game" />
+        <item itemvalue="Python.Deck" />
+        <item itemvalue="Python.Card" />
         <item itemvalue="Python.Square" />
         <item itemvalue="Python.ch13" />
-        <item itemvalue="Python.Rider" />
-        <item itemvalue="Python.Graphics" />
-        <item itemvalue="Python.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +361,7 @@
       <workItem from="1551664407682" duration="40000" />
       <workItem from="1551664491877" duration="103000" />
       <workItem from="1551664621412" duration="553000" />
-      <workItem from="1551665742346" duration="1359000" />
+      <workItem from="1551665742346" duration="7925000" />
     </task>
     <task id="LOCAL-00001" summary="chapter5">
       <created>1550644884467</created>
@@ -327,22 +374,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20133000" />
+    <option name="totallyTimeSpent" value="26699000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="26" width="1408" height="1414" extended-state="0" />
+    <frame x="33" y="26" width="1407" height="1414" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2693997" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26959708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980332" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3260212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39939487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -407,13 +463,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter5/ch5-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter5/ch5-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -680,8 +729,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter14/Square.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        <state relative-caret-position="364">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/Card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/Deck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="e#5#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/Player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
