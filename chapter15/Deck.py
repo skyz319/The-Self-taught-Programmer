@@ -1,5 +1,5 @@
 # 牌堆
-from random import  shuffle
+from random import shuffle
 from Card import *
 
 class Deck:
@@ -10,6 +10,7 @@ class Deck:
             # 4种花色
             for j in range(4):
                 self.cards.append(Card(i, j))
+        shuffle(self.cards)
 
     def rm_card(self):
         """从牌堆返回一张牌并从牌堆删除此牌"""
