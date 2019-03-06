@@ -10,6 +10,7 @@ class Deck:
             # 4种花色
             for j in range(4):
                 self.cards.append(Card(i, j))
+        # 随机发牌S
         shuffle(self.cards)
 
     def rm_card(self):
