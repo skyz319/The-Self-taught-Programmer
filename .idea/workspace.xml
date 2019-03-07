@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b78f560b-3a44-4ef7-967e-969f917475c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter17/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter17/zen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter20/Scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,6 +43,7 @@
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$apple.coverage" NAME="apple Coverage Results" MODIFIED="1551147010232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter12" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch7_3.coverage" NAME="ch7-3 Coverage Results" MODIFIED="1551062978631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch13.coverage" NAME="ch13 Coverage Results" MODIFIED="1551665899241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter13" />
+    <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$Scraper.coverage" NAME="Scraper Coverage Results" MODIFIED="1551928576539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter20" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_5.coverage" NAME="ch6-5 Coverage Results" MODIFIED="1551060661430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch8_1.coverage" NAME="ch8-1 Coverage Results" MODIFIED="1551072004224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter8" />
     <SUITE FILE_PATH="coverage/The_Self_taught_Programmer$ch6_2.coverage" NAME="ch6-2 Coverage Results" MODIFIED="1551059798101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
@@ -54,20 +54,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter17/zen.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="20" column="14" selection-end-line="20" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter17/example.py">
+        <entry file="file://$PROJECT_DIR$/chapter20/Scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+            <state relative-caret-position="442">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#1#22#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,6 +82,7 @@
       <find>calculate_perimeter</find>
       <find>Alth</find>
       <find>Dutch</find>
+      <find>urls</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,13 +135,15 @@
         <option value="$PROJECT_DIR$/chapter15/Deck.py" />
         <option value="$PROJECT_DIR$/chapter17/zen.txt" />
         <option value="$PROJECT_DIR$/chapter17/example.py" />
+        <option value="$PROJECT_DIR$/chapter20/url.txt" />
+        <option value="$PROJECT_DIR$/chapter20/Scraper.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="133" />
-    <option name="y" value="48" />
-    <option name="width" value="1364" />
+    <option name="x" value="49" />
+    <option name="y" value="27" />
+    <option name="width" value="1319" />
     <option name="height" value="1418" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -167,7 +164,12 @@
             <path>
               <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
               <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The-Self-taught-Programmer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-Self-taught-Programmer" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter20" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example">
+  <component name="RunManager" selected="Python.Scraper">
     <configuration name="Card" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Scraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="The-Self-taught-Programmer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,12 +272,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter20" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter14/Square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter20/Scraper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Scraper" />
         <item itemvalue="Python.example" />
         <item itemvalue="Python.Game" />
         <item itemvalue="Python.Deck" />
         <item itemvalue="Python.Card" />
-        <item itemvalue="Python.Square" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +333,7 @@
       <workItem from="1551664407682" duration="40000" />
       <workItem from="1551664491877" duration="103000" />
       <workItem from="1551664621412" duration="553000" />
-      <workItem from="1551665742346" duration="15787000" />
+      <workItem from="1551665742346" duration="18243000" />
     </task>
     <task id="LOCAL-00001" summary="chapter5">
       <created>1550644884467</created>
@@ -340,11 +342,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550644884467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chapter17">
+      <created>1551924700035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551924700035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34561000" />
+    <option name="totallyTimeSpent" value="37017000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,15 +365,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="48" width="1364" height="1418" extended-state="0" />
+    <frame x="49" y="27" width="1319" height="1418" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27836612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2881754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32980332" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32503772" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32503772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39939487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,80 +439,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter5" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
+    <MESSAGE value="chapter17" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter17" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter5/ch5-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter6/ch6-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter6/ch6-10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -606,13 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter9/files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -731,6 +663,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/ch4-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/ch4-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/ch5-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5/ch5-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/ch6-1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/ch6-3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter17/zen.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -740,8 +690,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter17/example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="692">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="1283" column="8" selection-start-line="1283" selection-start-column="8" selection-end-line="1283" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter20/url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter20/urlList.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter20/Scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#1#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
